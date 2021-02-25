@@ -6,7 +6,7 @@ Présentation du Design Pattern Decorator en IUT Informatique à Limoges pour un
 
 ## Auteurs
 
-* **Isabelle BLASQUEZ _alias_ [@iblasquez](https://github.com/iblasquez)
+* **Isabelle BLASQUEZ** _alias_ [@iblasquez](https://github.com/iblasquez)
 * **Samuel GOUPIL** _alias_ [@samuel-Goupil](https://github.com/samuel-Goupil)
 * **Peter DIVRY**
 
