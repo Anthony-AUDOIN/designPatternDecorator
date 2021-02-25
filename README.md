@@ -2,8 +2,7 @@
 
 ![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)
 
-Pendant notre cursus universitaire en IUT Informatique à Limoges, nous avons dû, par groupe, faire une présentation d'un Design Pattern existants.
-Nous avons donc 
+Présentation du Design Pattern Decorator en IUT Informatique à Limoges 
 
 ## Auteurs
 
@@ -12,4 +11,4 @@ Nous avons donc
 
 ## License
 
-Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+Ce projet est sous licence ``cc-by-4.0`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
