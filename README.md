@@ -1,6 +1,6 @@
 # DesignPattern Decorator :wrench:
 
-![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)]
+![forthebadge](https://forthebadge.com/images/badges/cc-0.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)
 
 Présentation du Design Pattern Decorator en IUT Informatique à Limoges pour un cours sur les techniques agiles de Isabelle BLASQUEZ. 
 
