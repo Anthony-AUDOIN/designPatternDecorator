@@ -12,4 +12,4 @@ Présentation du Design Pattern Decorator en IUT Informatique à Limoges pour un
 
 ## License
 
-Ce projet est sous licence ``cc-by-4.0`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+Ce projet est sous licence ``cc0-1.0`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
